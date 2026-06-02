@@ -3,7 +3,7 @@
 set -e
 # ================= CONFIG =================
 
-INSTALL_DIR="/home/kali/recon/"
+INSTALL_DIR="/home/kali/recon/"         # <-- Make changes here as required
 REPO_URL="https://github.com/RevoltSecurities/Subdominator.git"
 REPO_NAME="Subdominator"
 
